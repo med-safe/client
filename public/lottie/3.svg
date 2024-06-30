@@ -1,0 +1,49 @@
+<svg width="271" height="212" viewBox="0 0 271 212" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="271" height="212" rx="16" fill="url(#paint0_linear_2020_364)"/>
+<g filter="url(#filter0_d_2020_364)">
+<path d="M213.875 106.5C213.875 87.2617 198.28 71.6663 179.042 71.6663C155.517 71.6663 147.461 89.083 147.461 89.083H74.5417L57.125 106.5L78.8958 132.625L91.9583 123.916H109.375L122.438 136.979L135.5 123.916H147.461C147.461 123.916 156.716 141.333 179.042 141.333C198.28 141.333 213.875 125.738 213.875 106.5Z" stroke="white" stroke-width="9.90521" stroke-linejoin="round"/>
+<path d="M185.573 113.031C181.966 113.031 179.042 110.107 179.042 106.5C179.042 102.893 181.966 99.9684 185.573 99.9684C189.18 99.9684 192.104 102.893 192.104 106.5C192.104 110.107 189.18 113.031 185.573 113.031Z" fill="white"/>
+</g>
+<g filter="url(#filter1_d_2020_364)">
+<circle cx="208.5" cy="145.5" r="38.5" stroke="#00FFE0" stroke-width="8" stroke-linecap="round"/>
+<g filter="url(#filter2_d_2020_364)">
+<path d="M193.691 151.423L196.991 157.288C198.988 160.84 199.987 162.615 201.535 162.657C203.083 162.698 204.175 160.979 206.36 157.54L224.047 129.705" stroke="#00FFE0" stroke-width="8" stroke-linecap="round"/>
+</g>
+</g>
+<defs>
+<filter id="filter0_d_2020_364" x="45.6922" y="66.7137" width="179.616" height="92.5331" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dy="6.48062"/>
+<feGaussianBlur stdDeviation="3.24031"/>
+<feComposite in2="hardAlpha" operator="out"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_2020_364"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_2020_364" result="shape"/>
+</filter>
+<filter id="filter1_d_2020_364" x="162" y="103" width="93" height="93" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dy="4"/>
+<feGaussianBlur stdDeviation="2"/>
+<feComposite in2="hardAlpha" operator="out"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_2020_364"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_2020_364" result="shape"/>
+</filter>
+<filter id="filter2_d_2020_364" x="185.69" y="125.705" width="46.3574" height="48.9532" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dy="4"/>
+<feGaussianBlur stdDeviation="2"/>
+<feComposite in2="hardAlpha" operator="out"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_2020_364"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_2020_364" result="shape"/>
+</filter>
+<linearGradient id="paint0_linear_2020_364" x1="82.7263" y1="1.3275e-06" x2="167.298" y2="228.229" gradientUnits="userSpaceOnUse">
+<stop stop-color="#0063F8"/>
+<stop offset="1" stop-color="#844AFF"/>
+</linearGradient>
+</defs>
+</svg>

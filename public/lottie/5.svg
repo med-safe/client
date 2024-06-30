@@ -1,0 +1,29 @@
+<svg width="258" height="258" viewBox="0 0 258 258" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M170.765 18.3887C170.765 9.70136 163.723 2.65884 155.036 2.65884H102.93C94.2429 2.65884 87.2004 9.70136 87.2004 18.3887V77.3767C87.2004 86.0641 80.1579 93.1066 71.4705 93.1066H18.3783C9.69096 93.1066 2.64844 100.149 2.64844 108.836V159.959C2.64844 168.646 9.69094 175.689 18.3783 175.689H71.4705C80.1579 175.689 87.2004 182.731 87.2004 191.418V239.59C87.2004 248.278 94.2429 255.32 102.93 255.32H155.036C163.723 255.32 170.765 248.278 170.765 239.59V191.418C170.765 182.731 177.808 175.689 186.495 175.689H239.58C248.267 175.689 255.31 168.646 255.31 159.959V108.836C255.31 100.149 248.267 93.1066 239.58 93.1066H186.495C177.808 93.1066 170.765 86.0641 170.765 77.3767V18.3887Z" fill="url(#paint0_linear_2020_293)"/>
+<g clip-path="url(#clip0_2020_293)">
+<g filter="url(#filter0_d_2020_293)">
+<path d="M147.642 112.745V104.054C147.642 98.6764 145.506 93.5189 141.703 89.7162C137.901 85.9135 132.743 83.7771 127.365 83.7771C121.987 83.7771 116.83 85.9135 113.027 89.7162C109.224 93.5189 107.088 98.6764 107.088 104.054V112.745" stroke="white" stroke-width="9.83119" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M127.367 138.814C128.967 138.814 130.263 137.517 130.263 135.917C130.263 134.317 128.967 133.02 127.367 133.02C125.767 133.02 124.47 134.317 124.47 135.917C124.47 137.517 125.767 138.814 127.367 138.814Z" stroke="#FFDC62" stroke-width="9.83119" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M150.541 112.744H104.195C100.995 112.744 98.4014 115.337 98.4014 118.537V153.297C98.4014 156.497 100.995 159.09 104.195 159.09H150.541C153.741 159.09 156.335 156.497 156.335 153.297V118.537C156.335 115.337 153.741 112.744 150.541 112.744Z" fill="#FFDC62" stroke="#FFDC62" stroke-width="9.83119" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+</g>
+<defs>
+<filter id="filter0_d_2020_293" x="82.847" y="78.8615" width="89.0414" height="106.421" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dy="10.6384"/>
+<feGaussianBlur stdDeviation="5.31919"/>
+<feComposite in2="hardAlpha" operator="out"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_2020_293"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_2020_293" result="shape"/>
+</filter>
+<linearGradient id="paint0_linear_2020_293" x1="79.7767" y1="2.65885" x2="199.458" y2="255.32" gradientUnits="userSpaceOnUse">
+<stop stop-color="#0063F8"/>
+<stop offset="1" stop-color="#844AFF"/>
+</linearGradient>
+<clipPath id="clip0_2020_293">
+<rect width="101.065" height="101.065" fill="white" transform="translate(77.126 78.4581)"/>
+</clipPath>
+</defs>
+</svg>
